@@ -1,5 +1,5 @@
 <?php
-
+# try-catch文のサンプルコード
 class TestTryCatch
 {
     function main(){
